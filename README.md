@@ -2,10 +2,10 @@ Task 1:
 
 Get the users and their followers in the CSV format:
 
-To get the list of users https://api.github.com/users
-Get the list of user Ids divisible by 10 -
-Iterate the result and get the user details https://api.github.com/users/{login}
-Get the followers list for that user https://api.github.com/users/{login}/followers
+To get the list of users https://api.github.com/users.
+Get the list of user Ids divisible by 10.
+Iterate the result and get the user details https://api.github.com/users/{login}.
+Get the followers list for that user https://api.github.com/users/{login}/followers.
 Create a virtual environment for this project.
 Create a functions and convert into json format.
 And using loop for user id divisible by 10.
