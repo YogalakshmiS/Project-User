@@ -29,4 +29,4 @@ Enter an appropriate name.
 Click ‘Save’.
 Click ‘Download JSON’ on the right side of Client ID to download.
 The downloaded file has all authentication information of your application. 
-Rename the file to “webclient.json” and place it in your working directory.
+Rename the file to “client_secrets.json” and place it in your working directory.
